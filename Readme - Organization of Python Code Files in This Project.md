@@ -4,11 +4,11 @@ This is the software infrastructure of ***the IAMU (International Association of
 
 The following three papers explain the research work behind the Python code to be described. **Cite the following papers if you use the code and trained models in this project**. For an instruction on how to obtain the trained machine learning models in the following three papers and use them to estimate/forecast a mega containership's daily bunker fuel consumption, see "***Instructions on How to Use Trained Machine Learning Models.ipynb***" for details - this ".ipynb" file should be downloaded and run in Jupyter Notebook.
 
-*Xiaohe Li, Yuquan Du, Yanyu Chen, Son Nguyen, Wei Zhang, Alessandro Schönborn, Zhuo Sun, 2022. "Data fusion and machine learning for ship fuel efficiency modeling: Part I – voyage report data and meteorological data". JOURNAL NAME TO BE CONFIRMED, Vol XX, No. XX, pp XXX-XXX.*
+*Xiaohe Li, Yuquan Du, Yanyu Chen, Son Nguyen, Wei Zhang, Alessandro Schönborn, Zhuo Sun, 2022. "Data fusion and machine learning for ship fuel efficiency modeling: Part I – voyage report data and meteorological data". Communications in Transportation Research, 2, 100074.*
 
-*Yuquan Du, Yanyu Chen, Xiaohe Li, Alessandro Schönborn, Zhuo Sun, 2022a. "Data fusion and machine learning for ship fuel efficiency modeling: Part II – voyage report data, AIS data and meteorological data". JOURNAL NAME TO BE CONFIRMED, Vol XX, No. XX, pp XXX-XXX.*
+*Yuquan Du, Yanyu Chen, Xiaohe Li, Alessandro Schönborn, Zhuo Sun, 2022a. "Data fusion and machine learning for ship fuel efficiency modeling: Part II – voyage report data, AIS data and meteorological data". Communications in Transportation Research, 2, 100073.*
 
-*Yuquan Du, Xiaohe Li, Yanyu Chen, Alessandro Schönborn, Zhuo Sun, 2022b. "Data fusion and machine learning for ship fuel efficiency modeling: Part III – sensor data and meteorological data". JOURNAL NAME TO BE CONFIRMED, Vol XX, No. XX, pp XXX-XXX."*
+*Yuquan Du, Xiaohe Li, Yanyu Chen, Alessandro Schönborn, Zhuo Sun, 2022b. "Data fusion and machine learning for ship fuel efficiency modeling: Part III – sensor data and meteorological data". Communications in Transportation Research, 2, 100072.*
 
 
 **References**
